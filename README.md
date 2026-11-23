@@ -33,19 +33,15 @@ The project is organized into a modular structure for better readability and mai
 
 ##  How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Elysian0987/CPU-Scheduling-Visualizer.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd CPU-Scheduling-Visualizer
-   ```
-3. **Run the application:**
-   (Ensure you have Python 3 installed)
-   ```bash
-   python main.py
-   ```
+Requires Python 3 with Tkinter and a graphical desktop. Run `python3 -m tkinter` to check that Tkinter opens a test window. If it is missing, install the Tkinter package for your Python installation.
+
+```bash
+git clone https://github.com/samrudhi-builds/CPU-Scheduling-Algorithm-Visualizer.git
+cd CPU-Scheduling-Algorithm-Visualizer
+python3 main.py
+```
+
+Use `python main.py` if `python` points to Python 3 on your system.
 
 ##  How to Use
 
